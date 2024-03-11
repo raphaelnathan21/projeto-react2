@@ -1,0 +1,14 @@
+.menu {
+    display: flex;
+    text-align: center;
+}
+
+.menu img {
+    max-width: 20%;
+    margin-right: 30px;
+}
+
+.menu h1 {
+    font-family: "UnifrakturMaguntia", cursive;
+    font-size: 100px;
+}

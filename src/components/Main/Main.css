@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+.perfis {
+    display: flex;
+    justify-content: space-around;
+}
+
+.perfis div img {
+    max-width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.t-center {
+    text-align: center;
+    font-family: "UnifrakturMaguntia", cursive;
+}
